@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
  * main - it is the entry point
- * Return - will always be 0 
+ * Return: will always be (0) 
  */
-
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
