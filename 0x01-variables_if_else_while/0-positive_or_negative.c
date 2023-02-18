@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * Description: print value of n to be negative or positive
+ * Description: prints value of n to be negative or positive
  *
  * Return: Always 0
 */
