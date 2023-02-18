@@ -4,8 +4,6 @@
 /**
  * main - Entry point
  *
- * Description: prints value of n to be negative or positive
- *
  * Return: Always 0
 */
 int main(void)
