@@ -18,7 +18,7 @@ int main(void)
 	while (low_case_alpha <= 'z')
 		{
 			putchar(low_case_alpha);
-			++low_case_alpha
+			++low_case_alpha;
 			  
 		}
 	putchar('\n');
