@@ -12,16 +12,15 @@ int main(void)
 
 {
 	char low_case_alpha;
-
-	low_case_alpha = 'a'; 
+	
+	low_case_alpha = 'a';
 		
-		while(low_case_alpha <= 'z')
+	while (low_case_alpha <= 'z')
 		{
 			putchar(low_case_alpha);
-			++low_case_alpha;
-
-				
+			++low_case_alpha
+			  
 		}
-	putchar('\n');	
-	return(0);
+	putchar('\n');
+	return (0);
 }
