@@ -4,7 +4,7 @@
 /**
  * main - Entry
  *
- * Description: does a lot with string 
+ * Description: does a lot with string
  *
  * Return: Always 0
 */
