@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include "main.h"
-
+/**
+ * main - entry point
+ * Description: na here things start
+ * Return: always 0
+ */
 int main(void)
 
 {
