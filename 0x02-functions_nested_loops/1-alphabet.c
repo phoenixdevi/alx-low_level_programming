@@ -8,11 +8,11 @@
  * Description: so it begins
  * Return: Always 0
  */
-
+int print_alpahbet();
 int main(void)
 {
-	int print_alphabet = 'a';
-	for(print_alphabet <= 'z'; print_alphabet++;)
+	int print_alphabet='a';
+	for(print_alphabet<='z'; print_alphabet++;)
 
 	{
 
