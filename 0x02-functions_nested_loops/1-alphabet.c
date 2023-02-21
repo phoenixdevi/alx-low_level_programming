@@ -13,8 +13,12 @@ int main(void)
 {
 	for(char all_low_case_letters = 'a'; all_low_case_letters <= 'z'; all_low_case_letters++)
 
+	{
+
 		putchar(all_low_case_letters);
+
 	 	putchar('\n');
+	}
 
 	return(0);
  }
