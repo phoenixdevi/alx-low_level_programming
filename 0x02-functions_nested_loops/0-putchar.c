@@ -24,5 +24,4 @@ int main(void)
       putchar(ch);
       ch = '\n';
       putchar(ch);
-
 }
