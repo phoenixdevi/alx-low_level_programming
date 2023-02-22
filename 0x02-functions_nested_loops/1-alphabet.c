@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- *   print_alphabet - utilizes on the putchar function to print the alphabet a - 
- *   main - Entry point 
+ *   print_alphabet - utilizes on the putchar function
+ *   to print the alphabet a - z
+ *   main - Entry point
  *   Return: Always 0
 */
 
@@ -16,6 +17,6 @@ void print_alphabet(void)
 		putchar(ch);
 
 	putchar('\n');
-	
+
 }
 
