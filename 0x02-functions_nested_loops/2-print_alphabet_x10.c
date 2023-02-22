@@ -4,7 +4,7 @@
 */
 
 void print_alphabet_x10(void);
-int main(void)
+
 {
 	int line, ch;
 
@@ -15,5 +15,4 @@ int main(void)
 		putchar('\n');
 	}
 
-	return 0;
 }
