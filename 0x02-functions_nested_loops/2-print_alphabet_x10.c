@@ -1,5 +1,3 @@
-#include "print_alphabet_x10.h"
-#include <stdio.h>
 #include"main.h"
 
 /**
@@ -9,7 +7,6 @@
 */
 
 void print_alphabet_x10(void);
-int main(void)
 {
 	int line, ch;
 
