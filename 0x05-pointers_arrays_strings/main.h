@@ -3,5 +3,5 @@
 
 void reset_to_98(int *n);
 
-#endif // VOID_H_INCLUDED
+#endif /* VOID_H_INCLUDED */
 
