@@ -1,6 +1,7 @@
 /*
  * void swap_int(int *a, int *b)
- *	swaps a and b
+ *
+ * swap_int - swaps a and b
  *
 */
 
