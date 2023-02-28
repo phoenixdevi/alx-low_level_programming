@@ -6,14 +6,14 @@
  *
  * Return: the length of the string
  */
-void _puts(char *str)
+void puts(char *str)
 {
 	int i = 0;
 
 	while (str[i] != '\0')
 	{
-		_putchar(str[i]);
+		putchar(str[i]);
 		i++;
-	}
-	_putchar('\n');
+}
+	putchar('\n');
 }
